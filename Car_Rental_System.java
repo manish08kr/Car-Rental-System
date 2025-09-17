@@ -1,4 +1,4 @@
-package X_ConsoleBasedProject1.CarRentalSystem;
+package CarRentalSystem;
 
 // kis trh se store krega data ko
 
